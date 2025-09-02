@@ -1,5 +1,6 @@
 name: WardenLib
-version: '1.0.0'
 main: com.svteam.wardenlib.Main
-api-version: '1.21'
-authors: [ NoFailsXD ]
+version: 1.0
+api-version: 1.19
+author: NoFailsXD
+description: A library plugin providing scoreboard support for WardenEssentials.
