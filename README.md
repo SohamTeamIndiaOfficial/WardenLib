@@ -1,3 +1,5 @@
-WardenLib
+# WardenLib
 
-Used for my plugins
+| WardenLib | WardenEssentials | My Other Plugins |
+|-----------|------------------|------------------|
+| Required  | Required         | Required         |
