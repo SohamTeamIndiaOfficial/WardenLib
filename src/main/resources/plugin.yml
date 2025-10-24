@@ -1,6 +1,6 @@
 name: WardenLib
 main: com.svteam.wardenlib.Main
-version: 1.0
-api-version: 1.19
-author: NoFailsXD
-description: A library plugin providing scoreboard support for WardenEssentials.
+version: 1.4
+api-version: 1.21
+author: SVTeam
+softdepend: [Vault]
