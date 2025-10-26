@@ -1,0 +1,12 @@
+ui:
+  bossbar:
+    enabled: true
+    title: "&bWarden Network &7| &fWelcome!"
+    color: BLUE
+  title:
+    enabled: true
+    main: "&bWelcome!"
+    sub: "&7Enjoy your stay on the server!"
+  welcome:
+    enabled: true
+    message: "&aGlad to see you, &e%player%!"
