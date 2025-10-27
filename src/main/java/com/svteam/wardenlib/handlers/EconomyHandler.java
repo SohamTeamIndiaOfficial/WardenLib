@@ -1,4 +1,4 @@
-package com.svteam.wardenlib;
+package com.svteam.wardenlib.handlers;
 
 import net.milkbowl.vault.economy.Economy;
 import org.bukkit.Bukkit;

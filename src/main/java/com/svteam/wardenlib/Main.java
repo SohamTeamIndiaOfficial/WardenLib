@@ -1,5 +1,6 @@
 package com.svteam.wardenlib;
 
+import com.svteam.wardenlib.handlers.EconomyHandler;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
